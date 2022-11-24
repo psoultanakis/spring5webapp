@@ -5,7 +5,7 @@
 
 	<groupId>guru.springframework</groupId>
 	<artifactId>spring5webapp</artifactId>
-	<version>1.0.0-RC1.12-SNAPSHOT</version>
+	<version>1.0.0-RC1.12</version>
 	<packaging>jar</packaging>
 
 	<name>spring5webapp</name>
